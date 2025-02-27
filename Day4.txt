@@ -1,0 +1,144 @@
+Classification - Theory and Explanation (Easy Level - Day 1)
+What is Classification?
+Classification is a method of grouping objects, words, or concepts based on their common properties. In aptitude tests, classification questions test your ability to recognize patterns and categorize elements correctly.
+
+Types of Classification
+Based on Similarity – Choosing the odd one out from a group of similar objects.
+
+Example: Apple, Banana, Orange, Chair (Chair is the odd one because the rest are fruits).
+Based on Numbers – Finding the number that doesn’t fit in a pattern.
+
+Example: 11, 13, 17, 19, 22 (22 is the odd one because the rest are prime numbers).
+Based on Letters/Words – Identifying the word or letter that does not belong.
+
+Example: A, E, I, O, X (X is the odd one because the rest are vowels).
+Based on Professions – Finding the one that does not match a certain profession.
+
+Example: Doctor, Nurse, Engineer, Stethoscope (Stethoscope is an object, the rest are professions).
+Based on Animals, Plants, or Objects – Identifying the one that doesn’t fit.
+
+Example: Lion, Tiger, Elephant, Shark (Shark is the odd one because the rest are land animals).
+How to Solve Classification Questions?
+Identify the common feature among most of the options.
+Find the option that does not match that feature.
+Eliminate incorrect choices and verify your answer.
+20 Classification Questions (Easy Level)
+Apple, Banana, Grapes, Carrot
+a) Apple
+b) Banana
+c) Grapes
+d) Carrot
+
+Dog, Cat, Elephant, Lizard
+a) Dog
+b) Cat
+c) Elephant
+d) Lizard
+
+Knife, Spoon, Plate, Fork
+a) Knife
+b) Spoon
+c) Plate
+d) Fork
+
+Pen, Pencil, Eraser, Table
+a) Pen
+b) Pencil
+c) Eraser
+d) Table
+
+January, February, March, Sunday
+a) January
+b) February
+c) March
+d) Sunday
+
+Gold, Silver, Iron, Plastic
+a) Gold
+b) Silver
+c) Iron
+d) Plastic
+
+Doctor, Teacher, Engineer, Chair
+a) Doctor
+b) Teacher
+c) Engineer
+d) Chair
+
+Crow, Parrot, Sparrow, Bat
+a) Crow
+b) Parrot
+c) Sparrow
+d) Bat
+
+Oxygen, Nitrogen, Hydrogen, Water
+a) Oxygen
+b) Nitrogen
+c) Hydrogen
+d) Water
+
+Circle, Triangle, Rectangle, Cube
+a) Circle
+b) Triangle
+c) Rectangle
+d) Cube
+
+Lion, Tiger, Cheetah, Whale
+a) Lion
+b) Tiger
+c) Cheetah
+d) Whale
+
+Rose, Lotus, Sunflower, Mango
+a) Rose
+b) Lotus
+c) Sunflower
+d) Mango
+
+Chair, Table, Fan, Cupboard
+a) Chair
+b) Table
+c) Fan
+d) Cupboard
+
+Red, Green, Blue, Circle
+a) Red
+b) Green
+c) Blue
+d) Circle
+
+India, America, Europe, Australia
+a) India
+b) America
+c) Europe
+d) Australia
+
+Bread, Butter, Rice, Knife
+a) Bread
+b) Butter
+c) Rice
+d) Knife
+
+Kilogram, Gram, Litre, Tonne
+a) Kilogram
+b) Gram
+c) Litre
+d) Tonne
+
+Earth, Jupiter, Saturn, Moon
+a) Earth
+b) Jupiter
+c) Saturn
+d) Moon
+
+Mercury, Venus, Saturn, Pluto
+a) Mercury
+b) Venus
+c) Saturn
+d) Pluto
+
+Cat, Dog, Rabbit, Snake
+a) Cat
+b) Dog
+c) Rabbit
+d) Snake
