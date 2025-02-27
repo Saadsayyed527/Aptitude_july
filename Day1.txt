@@ -1,12 +1,156 @@
-<div class="mb-3">
-    <label class="visually-hidden" for="inputName"
-        >Hidden input label</label
-    >
-    <input
-        type="text"
-        class="form-control"
-        name="inputName"
-        id="inputName"
-        placeholder=""
-    />
-</div>
+Analogy Easy level 
+
+Analogy - Theory and Explanation (Easy Level - Day 1)
+What is Analogy?
+An analogy is a comparison between two pairs of words or concepts that share a similar relationship. In aptitude tests, analogy questions test your ability to recognize relationships between words, objects, or ideas.
+
+Types of Analogies
+Synonym Analogy – Words with similar meanings.
+
+Example: Happy : Joyful :: Sad : Unhappy
+Antonym Analogy – Words with opposite meanings.
+
+Example: Hot : Cold :: Day : Night
+Part-Whole Analogy – One word is a part of the other.
+
+Example: Finger : Hand :: Petal : Flower
+Cause-Effect Analogy – One word is the cause of the other.
+
+Example: Fire : Burn :: Rain : Flood
+Tool-Worker Analogy – A worker uses a tool.
+
+Example: Carpenter : Hammer :: Doctor : Stethoscope
+Product-Producer Analogy – A producer creates a product.
+
+Example: Poet : Poem :: Painter : Painting
+Object-Function Analogy – An object and its function are related.
+
+Example: Pen : Write :: Knife : Cut
+Degree of Intensity Analogy – Words differ in intensity but have a related meaning.
+
+Example: Warm : Hot :: Cool : Cold
+How to Solve Analogy Questions?
+Identify the relationship between the given pair of words.
+Find the same relationship in the answer choices.
+Eliminate options that do not follow the same relationship.
+Verify your answer before finalizing.
+20 Analogy Questions (Easy Level)
+Dog : Bark :: Cat : ?
+a) Meow
+b) Roar
+c) Howl
+d) Chirp
+
+Sun : Day :: Moon : ?
+a) Star
+b) Night
+c) Light
+d) Sky
+
+Doctor : Stethoscope :: Painter : ?
+a) Brush
+b) Hammer
+c) Chisel
+d) Pen
+
+Fire : Burn :: Ice : ?
+a) Cold
+b) Freeze
+c) Melt
+d) Water
+
+Book : Read :: Pen : ?
+a) Write
+b) Erase
+c) Hold
+d) Sharp
+
+Finger : Hand :: Toe : ?
+a) Leg
+b) Foot
+c) Nail
+d) Shoe
+
+Mango : Fruit :: Spinach : ?
+a) Vegetable
+b) Root
+c) Leaf
+d) Flower
+
+Poet : Poem :: Singer : ?
+a) Music
+b) Song
+c) Instrument
+d) Tune
+
+Bird : Nest :: Bee : ?
+a) Tree
+b) Hive
+c) Web
+d) Den
+
+Car : Fuel :: Body : ?
+a) Water
+b) Food
+c) Air
+d) Exercise
+
+Knife : Cut :: Needle : ?
+a) Write
+b) Sew
+c) Pierce
+d) Sharp
+
+Library : Books :: Bank : ?
+a) Money
+b) Papers
+c) Lockers
+d) Account
+
+Water : Thirst :: Food : ?
+a) Hunger
+b) Eat
+c) Drink
+d) Energy
+
+Eye : See :: Ear : ?
+a) Listen
+b) Hear
+c) Smell
+d) Sound
+
+Car : Garage :: Aeroplane : ?
+a) Airport
+b) Sky
+c) Runway
+d) Hangar
+
+Teacher : School :: Doctor : ?
+a) Hospital
+b) Medicine
+c) Patient
+d) Clinic
+
+Laugh : Happy :: Cry : ?
+a) Tears
+b) Sad
+c) Smile
+d) Sorrow
+
+Plant : Grow :: Fire : ?
+a) Burn
+b) Smoke
+c) Flame
+d) Heat
+
+Ship : Sailor :: Aeroplane : ?
+a) Pilot
+b) Crew
+c) Captain
+d) Passenger
+
+Apple : Fruit :: Cabbage : ?
+a) Plant
+b) Flower
+c) Vegetable
+d) Root
