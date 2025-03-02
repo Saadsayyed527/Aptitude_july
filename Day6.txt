@@ -1,0 +1,189 @@
+ Word-Based Classification
+Neutron, Proton, Electron, Atom
+a) Neutron
+b) Proton
+c) Electron
+d) Atom
+
+Mercury, Venus, Earth, Moon
+a) Mercury
+b) Venus
+c) Earth
+d) Moon
+
+Asia, Europe, India, Africa
+a) Asia
+b) Europe
+c) India
+d) Africa
+
+Steel, Copper, Bronze, Zinc
+a) Steel
+b) Copper
+c) Bronze
+d) Zinc
+
+Square, Rectangle, Triangle, Sphere
+a) Square
+b) Rectangle
+c) Triangle
+d) Sphere
+
+Python, Java, C++, MySQL
+a) Python
+b) Java
+c) C++
+d) MySQL
+
+Water, Milk, Juice, Mercury
+a) Water
+b) Milk
+c) Juice
+d) Mercury
+
+Red, Yellow, Green, White
+a) Red
+b) Yellow
+c) Green
+d) White
+
+Cheetah, Horse, Deer, Kangaroo
+a) Cheetah
+b) Horse
+c) Deer
+d) Kangaroo
+
+Pen, Pencil, Chalk, Marker
+a) Pen
+b) Pencil
+c) Chalk
+d) Marker
+
+👉 Number-Based Classification
+81, 100, 121, 130
+a) 81
+b) 100
+c) 121
+d) 130
+
+101, 103, 107, 111
+a) 101
+b) 103
+c) 107
+d) 111
+
+2, 6, 12, 20
+a) 2
+b) 6
+c) 12
+d) 20
+
+20, 25, 30, 35
+a) 20
+b) 25
+c) 30
+d) 35
+
+11, 17, 23, 29, 36
+a) 11
+b) 17
+c) 23
+d) 36
+
+12, 18, 27, 39
+a) 12
+b) 18
+c) 27
+d) 39
+
+144, 169, 196, 225, 244
+a) 144
+b) 169
+c) 196
+d) 244
+
+15, 35, 65, 95
+a) 15
+b) 35
+c) 65
+d) 95
+
+7, 14, 28, 56, 80
+a) 7
+b) 14
+c) 28
+d) 80
+
+2, 5, 10, 17, 26
+a) 2
+b) 5
+c) 10
+d) 17
+
+👉 Letter-Based Classification
+B, D, F, H, J
+a) B
+b) D
+c) F
+d) J
+
+L, N, Q, S
+a) L
+b) N
+c) Q
+d) S
+
+A, C, G, K
+a) A
+b) C
+c) G
+d) K
+
+T, U, V, X
+a) T
+b) U
+c) V
+d) X
+
+J, K, M, O
+a) J
+b) K
+c) M
+d) O
+
+👉 Object & Profession-Based Classification
+Compass, Thermometer, Barometer, Speedometer
+a) Compass
+b) Thermometer
+c) Barometer
+d) Speedometer
+
+Astronomy, Physics, Chemistry, Astrology
+a) Astronomy
+b) Physics
+c) Chemistry
+d) Astrology
+
+Nurse, Pharmacist, Chemist, Economist
+a) Nurse
+b) Pharmacist
+c) Chemist
+d) Economist
+
+Google, Facebook, Amazon, Tesla
+a) Google
+b) Facebook
+c) Amazon
+d) Tesla
+
+Hurricane, Tornado, Tsunami, Lightning
+a) Hurricane
+b) Tornado
+c) Tsunami
+d) Lightning
+
+🔹 How to Solve Hard-Level Classification Questions?
+Think beyond surface patterns: Some relationships are indirect.
+Check for hidden rules: Prime numbers, cube numbers, alphabetical positions, etc.
+Analyze logical connections: E.g., "Mercury" is different from "Water" because it's a metal.
+Use elimination: If confused, remove obvious wrong choices.

@@ -1,34 +1,45 @@
-Classification - Theory and Explanation (Easy Level - Day 1)
-What is Classification?
-Classification is a method of grouping objects, words, or concepts based on their common properties. In aptitude tests, classification questions test your ability to recognize patterns and categorize elements correctly.
+Classification - Theory & 30 Easy Questions for Placement Aptitude
+🔹 What is Classification in Aptitude?
+Classification is a type of reasoning where objects, words, numbers, or concepts are grouped based on a common property. The goal is to find the odd one out from a given set of options.
 
-Types of Classification
-Based on Similarity – Choosing the odd one out from a group of similar objects.
+This topic tests logical thinking, pattern recognition, and decision-making skills, which are crucial for placement exams and competitive tests.
 
-Example: Apple, Banana, Orange, Chair (Chair is the odd one because the rest are fruits).
-Based on Numbers – Finding the number that doesn’t fit in a pattern.
+🔹 Types of Classification Questions
+Based on Common Characteristics
 
-Example: 11, 13, 17, 19, 22 (22 is the odd one because the rest are prime numbers).
-Based on Letters/Words – Identifying the word or letter that does not belong.
+Identifying the word/number/object that does not belong to the group.
+Example: Apple, Banana, Orange, Chair (Chair is the odd one out because it's not a fruit).
+Based on Numbers & Mathematical Patterns
 
-Example: A, E, I, O, X (X is the odd one because the rest are vowels).
-Based on Professions – Finding the one that does not match a certain profession.
+Finding the number that does not follow the same numerical pattern.
+Example: 3, 5, 7, 8, 11 (8 is not a prime number).
+Based on Letter/Word Relationships
 
-Example: Doctor, Nurse, Engineer, Stethoscope (Stethoscope is an object, the rest are professions).
-Based on Animals, Plants, or Objects – Identifying the one that doesn’t fit.
+Identifying the word or letter that does not fit the given relationship.
+Example: A, E, I, O, X (X is not a vowel).
+Based on Professions or Objects
 
-Example: Lion, Tiger, Elephant, Shark (Shark is the odd one because the rest are land animals).
-How to Solve Classification Questions?
-Identify the common feature among most of the options.
-Find the option that does not match that feature.
-Eliminate incorrect choices and verify your answer.
-20 Classification Questions (Easy Level)
-Apple, Banana, Grapes, Carrot
-a) Apple
-b) Banana
-c) Grapes
-d) Carrot
+Finding an element that does not belong to a group of professions or tools.
+Example: Doctor, Teacher, Engineer, Telescope (Telescope is an object, not a profession).
+Based on Living vs. Non-Living Objects
 
+Distinguishing between animals, plants, and inanimate objects.
+Example: Lion, Tiger, Elephant, Table (Table is non-living).
+🔹 How to Solve Classification Questions?
+Identify the Common Property:
+
+Look for a shared feature in most options.
+Find the Odd One Out:
+
+Identify the option that does not share this property.
+Check for Hidden Patterns:
+
+Some classifications involve numerical or logical sequences.
+Use Elimination Method:
+
+If confused, eliminate obvious wrong choices first.
+🔹 30 Easy Classification Questions for Placements
+👉 Word-Based Classification
 Dog, Cat, Elephant, Lizard
 a) Dog
 b) Cat
@@ -52,12 +63,6 @@ a) January
 b) February
 c) March
 d) Sunday
-
-Gold, Silver, Iron, Plastic
-a) Gold
-b) Silver
-c) Iron
-d) Plastic
 
 Doctor, Teacher, Engineer, Chair
 a) Doctor
@@ -95,29 +100,105 @@ b) Lotus
 c) Sunflower
 d) Mango
 
-Chair, Table, Fan, Cupboard
-a) Chair
-b) Table
+👉 Number-Based Classification
+12, 18, 24, 31
+a) 12
+b) 18
+c) 24
+d) 31
+
+2, 4, 6, 9
+a) 2
+b) 4
+c) 6
+d) 9
+
+15, 25, 35, 55
+a) 15
+b) 25
+c) 35
+d) 55
+
+5, 10, 15, 22
+a) 5
+b) 10
+c) 15
+d) 22
+
+3, 6, 9, 13
+a) 3
+b) 6
+c) 9
+d) 13
+
+👉 Letter-Based Classification
+A, E, I, O, X
+a) A
+b) E
+c) I
+d) X
+
+B, D, G, K
+a) B
+b) D
+c) G
+d) K
+
+L, N, P, Q
+a) L
+b) N
+c) P
+d) Q
+
+X, Y, Z, B
+a) X
+b) Y
+c) Z
+d) B
+
+M, N, O, Q
+a) M
+b) N
+c) O
+d) Q
+
+👉 Object & Profession-Based Classification
+Hammer, Screwdriver, Saw, Mobile
+a) Hammer
+b) Screwdriver
+c) Saw
+d) Mobile
+
+Physics, Chemistry, Biology, Calculator
+a) Physics
+b) Chemistry
+c) Biology
+d) Calculator
+
+Table, Chair, Fan, Sofa
+a) Table
+b) Chair
 c) Fan
-d) Cupboard
+d) Sofa
 
-Red, Green, Blue, Circle
-a) Red
-b) Green
-c) Blue
-d) Circle
+Facebook, Instagram, Twitter, Microsoft
+a) Facebook
+b) Instagram
+c) Twitter
+d) Microsoft
 
+Pilot, Teacher, Doctor, Stethoscope
+a) Pilot
+b) Teacher
+c) Doctor
+d) Stethoscope
+
+👉 Miscellaneous Classification Questions
 India, America, Europe, Australia
 a) India
 b) America
 c) Europe
 d) Australia
-
-Bread, Butter, Rice, Knife
-a) Bread
-b) Butter
-c) Rice
-d) Knife
 
 Kilogram, Gram, Litre, Tonne
 a) Kilogram
@@ -142,3 +223,8 @@ a) Cat
 b) Dog
 c) Rabbit
 d) Snake
+
+🔹 Summary
+Classification questions help in logical reasoning and pattern recognition.
+To solve them, identify the common pattern among most elements and find the odd one out.
+These questions are common in placement tests for companies like TCS, Infosys, Wipro, and Accenture.

@@ -1,0 +1,190 @@
+ 30 Medium-Level Classification Questions
+👉 Word-Based Classification
+Tiger, Lion, Leopard, Dolphin
+a) Tiger
+b) Lion
+c) Leopard
+d) Dolphin
+
+Sparrow, Parrot, Pigeon, Bat
+a) Sparrow
+b) Parrot
+c) Pigeon
+d) Bat
+
+Violin, Flute, Guitar, Table
+a) Violin
+b) Flute
+c) Guitar
+d) Table
+
+Copper, Iron, Aluminum, Plastic
+a) Copper
+b) Iron
+c) Aluminum
+d) Plastic
+
+Chair, Bench, Table, Book
+a) Chair
+b) Bench
+c) Table
+d) Book
+
+Facebook, Twitter, Instagram, Windows
+a) Facebook
+b) Twitter
+c) Instagram
+d) Windows
+
+Surgeon, Engineer, Architect, Stethoscope
+a) Surgeon
+b) Engineer
+c) Architect
+d) Stethoscope
+
+Pen, Pencil, Eraser, Notebook
+a) Pen
+b) Pencil
+c) Eraser
+d) Notebook
+
+Apple, Banana, Mango, Carrot
+a) Apple
+b) Banana
+c) Mango
+d) Carrot
+
+Taj Mahal, Qutub Minar, Red Fort, Statue of Liberty
+a) Taj Mahal
+b) Qutub Minar
+c) Red Fort
+d) Statue of Liberty
+
+👉 Number-Based Classification
+18, 36, 45, 64
+a) 18
+b) 36
+c) 45
+d) 64
+
+121, 144, 169, 190
+a) 121
+b) 144
+c) 169
+d) 190
+
+13, 17, 19, 22
+a) 13
+b) 17
+c) 19
+d) 22
+
+25, 36, 49, 64
+a) 25
+b) 36
+c) 49
+d) 64
+
+200, 400, 800, 1500
+a) 200
+b) 400
+c) 800
+d) 1500
+
+81, 100, 121, 132
+a) 81
+b) 100
+c) 121
+d) 132
+
+8, 27, 64, 120
+a) 8
+b) 27
+c) 64
+d) 120
+
+7, 14, 21, 31
+a) 7
+b) 14
+c) 21
+d) 31
+
+5, 11, 17, 23, 28
+a) 5
+b) 11
+c) 17
+d) 28
+
+4, 9, 16, 26
+a) 4
+b) 9
+c) 16
+d) 26
+
+👉 Letter-Based Classification
+B, C, D, G
+a) B
+b) C
+c) D
+d) G
+
+X, Y, Z, A
+a) X
+b) Y
+c) Z
+d) A
+
+J, K, L, O
+a) J
+b) K
+c) L
+d) O
+
+P, R, T, U
+a) P
+b) R
+c) T
+d) U
+
+C, G, K, O
+a) C
+b) G
+c) K
+d) O
+
+👉 Object & Profession-Based Classification
+Hammer, Wrench, Screwdriver, Scissors
+a) Hammer
+b) Wrench
+c) Screwdriver
+d) Scissors
+
+Physics, Chemistry, Biology, Computer Science
+a) Physics
+b) Chemistry
+c) Biology
+d) Computer Science
+
+Nurse, Pharmacist, Chemist, Author
+a) Nurse
+b) Pharmacist
+c) Chemist
+d) Author
+
+Radio, Television, Mobile, Table
+a) Radio
+b) Television
+c) Mobile
+d) Table
+
+Volcano, Earthquake, Tsunami, Cyclone
+a) Volcano
+b) Earthquake
+c) Tsunami
+d) Cyclone
+
+🔹 How to Solve Medium-Level Classification Questions?
+Look for deeper patterns: Unlike easy-level questions, some elements may have indirect relationships.
+Analyze numerical properties carefully: Square numbers, prime numbers, even-odd patterns, etc.
+Letter-based questions may involve alphabet positions or missing sequences.
+Use elimination method: If stuck, eliminate the most obvious correct choices first.
