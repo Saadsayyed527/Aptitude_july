@@ -1,0 +1,112 @@
+Alphabet Test (Aptitude) – Theory & Questions
+📌 What is an Alphabet Test?
+The Alphabet Test is a type of aptitude question where you analyze letters, positions, sequences, and patterns in the English alphabet. These questions test your ability to identify letter relationships, sequences, and positions using logical reasoning.
+
+Types of Alphabet Test Questions
+1️⃣ Alphabet Series & Sequences
+Involves identifying missing letters in a pattern or finding the next letter in a sequence.
+Example: A, C, E, G, ? (Answer: I)
+2️⃣ Letter Positions (Forward & Backward)
+Based on the position of letters in the alphabet (A=1, B=2, ..., Z=26).
+Example: What is the 10th letter from the left in the English alphabet? (Answer: J)
+3️⃣ Letter Coding & Decoding
+Replacing letters with numbers or shifting them based on logic.
+Example: If A = 1, C = 3, then what is F? (Answer: 6)
+4️⃣ Word Formation & Rearrangement
+Checking whether a word can be formed using given letters or rearranging letters to form meaningful words.
+Example: Can the word "LION" be formed from "NOILABEX"? (Answer: Yes)
+5️⃣ Letter Analogies
+Finding relationships between letters and applying them to find a missing letter.
+Example: B is to E as D is to ? (Answer: G)
+6️⃣ Letter Distance & Middle Letter Concepts
+Finding letters at a particular position from another letter.
+Example: Which letter is 3rd to the right of K? (Answer: N)
+What is the 1st letter of the alphabet?
+Answer: A
+
+What is the 10th letter of the alphabet?
+Answer: J
+
+Which letter comes after L?
+Answer: M
+
+What is the position of R in the alphabet?
+Answer: 18
+
+Find the missing letter: A, C, E, ?, I
+Answer: G
+
+Find the missing letter: M, N, O, ?, Q
+Answer: P
+
+If A = 1, B = 2, then G = ?
+Answer: 7
+
+What is the 5th letter from the left?
+Answer: E
+
+Which letter comes before X?
+Answer: W
+
+What comes after Z in the English alphabet?
+Answer: No letter (End of alphabet)
+
+What is the middle letter of the English alphabet?
+Answer: M/N
+
+If "DOG" is written as "EHP", how is "CAT" written?
+Answer: DBU
+
+Find the odd one out: A, E, I, O, B
+Answer: B (Not a vowel)
+
+What comes next in the series: D, G, J, M, ?
+Answer: P
+
+Which letter is opposite to A in the reversed alphabet?
+Answer: Z
+
+Which letter is 3rd to the right of L?
+Answer: O
+
+What comes next: J, K, L, M, ?
+Answer: N
+
+Which letter is at the 20th position from the left?
+Answer: T
+
+How many letters are there between H and R?
+Answer: 8
+
+If C = 3, then X = ?
+Answer: 24
+
+What comes next: P, R, T, V, ?
+Answer: X
+
+Find the odd one out: L, N, Q, R, U
+Answer: R
+
+Which letter is 4th to the left of Y?
+Answer: U
+
+If X is the 24th letter, what is the 12th letter?
+Answer: L
+
+What is the reverse order of the English alphabet?
+Answer: ZYXWVUTSRQPONMLKJIHGFEDCBA
+
+Find the missing letter: A, D, G, ?, M
+Answer: J
+
+Which letter comes 5 places after F?
+Answer: K
+
+Find the missing letter: B, D, F, ?, J
+Answer: H
+
+What is the last letter of the alphabet?
+Answer: Z
+
+What comes after Q in the alphabet?
+Answer: R

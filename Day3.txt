@@ -7,12 +7,14 @@ a) Music
 b) Orchestra
 c) Symphony
 d) Performance
+conductor leads the the Orchestra 
 
 Quarantine : Disease :: Embargo : ?
 a) Goods
 b) Trade
 c) Border
 d) Isolation
+Quarantine stops the Disease , similar Embargo (an official order to stop doing business with another country)stops Trade
 
 Mitochondria : Energy :: Ribosome : ?
 a) Protein
@@ -37,18 +39,21 @@ a) Brain
 b) Lungs
 c) Heart
 d) Kidney
+Astigmatism is a disorder of the eye, just as arrhythmia is a disorder of the heart.
 
 Sonnet : Shakespeare :: Symphony : ?
 a) Mozart
 b) Picasso
 c) Michelangelo
 d) Beethoven
+Shakespeare is famous for sonnets, just as Beethoven is famous for symphonies(a long piece of music written for a large orchestra).
 
 Haiku : Japan :: Flamenco : ?
 a) Italy
 b) Spain
 c) France
 d) Brazil
+Haiku(writing form ) originates from Japan, just as flamenco(dance form) originates from Spain.
 
 Exonerate : Blame :: Extinguish : ?
 a) Fire
@@ -67,18 +72,21 @@ a) Thread
 b) Loom
 c) Fabric
 d) Design
+Chisel is a tool used by Sculptor and loom(machine ) is a tool used by Weaver(who makes cloth)
 
 Hemoglobin : Blood :: Chlorophyll : ?
 a) Oxygen
 b) Green
 c) Leaves
 d) Photosynthesis
+Hemoglobin helps transport oxygen in blood, just as chlorophyll facilitates photosynthesis in plants.
 
 Erosion : Rock :: Attrition : ?
 a) Metal
 b) Soldiers
 c) Clothing
 d) Paint
+Erosion gradually wears down rock, just as attrition gradually reduces the number of soldiers in a conflict.
 
 Stamen : Flower :: Piston : ?
 a) Engine
@@ -91,33 +99,41 @@ a) Engineer
 b) Architect
 c) Draftsman
 d) Designer
+ An author creates a manuscript, just as an architect creates a blueprint.
 
 Cynosure : Attention :: Nemesis : ?
 a) Enemy
 b) Success
 c) Fate
 d) Power
+Nemesis is the obsession of your Defeat by enemy 
 
 Oath : Honesty :: Hypocrisy : ?
 a) Integrity
 b) Deception
 c) Loyalty
 d) Lie
+An oath represents honesty, just as hypocrisy represents deception.
 
 Abscond : Depart :: Purloin : ?
 a) Steal
 b) Smuggle
 c) Escape
 d) Conceal
+To abscond is to depart secretly, just as to purloin is to steal secretly.
 
 Renaissance : Rebirth :: Epiphany : ?
 a) Realization
 b) Enlightenment
 c) Awakening
 d) Inspiration
+ The Renaissance was a period of rebirth, just as an epiphany is a moment of awakening.
+
 
 Symphony : Composer :: Theory : ?
 a) Mathematician
 b) Scientist
 c) Philosopher
 d) Professor
+
+A symphony is created by a composer, just as a theory is developed by a philosopher.

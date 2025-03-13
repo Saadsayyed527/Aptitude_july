@@ -6,34 +6,37 @@ An analogy is a comparison between two pairs of words or concepts that share a s
 
 Types of Analogies
 Synonym Analogy – Words with similar meanings.
-
 Example: Happy : Joyful :: Sad : Unhappy
+
 Antonym Analogy – Words with opposite meanings.
-
 Example: Hot : Cold :: Day : Night
+
 Part-Whole Analogy – One word is a part of the other.
-
 Example: Finger : Hand :: Petal : Flower
+
 Cause-Effect Analogy – One word is the cause of the other.
-
 Example: Fire : Burn :: Rain : Flood
+
 Tool-Worker Analogy – A worker uses a tool.
-
 Example: Carpenter : Hammer :: Doctor : Stethoscope
+
 Product-Producer Analogy – A producer creates a product.
-
 Example: Poet : Poem :: Painter : Painting
+
 Object-Function Analogy – An object and its function are related.
-
 Example: Pen : Write :: Knife : Cut
-Degree of Intensity Analogy – Words differ in intensity but have a related meaning.
 
+Degree of Intensity Analogy – Words differ in intensity but have a related meaning.
 Example: Warm : Hot :: Cool : Cold
+
+
 How to Solve Analogy Questions?
 Identify the relationship between the given pair of words.
 Find the same relationship in the answer choices.
 Eliminate options that do not follow the same relationship.
 Verify your answer before finalizing.
+
+
 20 Analogy Questions (Easy Level)
 Dog : Bark :: Cat : ?
 a) Meow

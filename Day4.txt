@@ -25,6 +25,9 @@ Based on Living vs. Non-Living Objects
 
 Distinguishing between animals, plants, and inanimate objects.
 Example: Lion, Tiger, Elephant, Table (Table is non-living).
+
+
+
 🔹 How to Solve Classification Questions?
 Identify the Common Property:
 
@@ -36,8 +39,8 @@ Check for Hidden Patterns:
 
 Some classifications involve numerical or logical sequences.
 Use Elimination Method:
-
 If confused, eliminate obvious wrong choices first.
+
 🔹 30 Easy Classification Questions for Placements
 👉 Word-Based Classification
 Dog, Cat, Elephant, Lizard
@@ -149,6 +152,7 @@ a) L
 b) N
 c) P
 d) Q
+out of pattern q 
 
 X, Y, Z, B
 a) X
@@ -175,10 +179,10 @@ b) Chemistry
 c) Biology
 d) Calculator
 
-Table, Chair, Fan, Sofa
+Table, Chair, Fan, Sofa (furnitures)
 a) Table
 b) Chair
-c) Fan
+c) Fan electronic 
 d) Sofa
 
 Facebook, Instagram, Twitter, Microsoft

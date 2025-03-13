@@ -22,6 +22,7 @@ a) Steel
 b) Copper
 c) Bronze
 d) Zinc
+all are metal but steel is alloy 
 
 Square, Rectangle, Triangle, Sphere
 a) Square
